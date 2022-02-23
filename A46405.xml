@@ -1,0 +1,590 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Justification of the members within doors to the objections and cavils o[ ... ] against the carrying up to the Lords the engressed bill for the releif [sic] and discharge o[ ... ]gulation of goals and goalers</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46405</idno>
+            <idno type="STC">Wing J1261A</idno>
+            <idno type="STC">ESTC R29413</idno>
+            <idno type="EEBO-CITATION">11111968</idno>
+            <idno type="OCLC">ocm 11111968</idno>
+            <idno type="VID">46354</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46354)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1405:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Justification of the members within doors to the objections and cavils o[ ... ] against the carrying up to the Lords the engressed bill for the releif [sic] and discharge o[ ... ]gulation of goals and goalers</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.p. torn with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisons --  Law and legislation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46354:1"/>
+            <head>JUSTIFICATIO<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Of the Members within Doors, to the Objections and Cavils <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Againſt</hi> The carrying up to the Lords, the Engroſſed Bill for the Releiſ and Diſcharge o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gulation of Goals and Goalers.</head>
+            <p>THAT <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here are every where, and will be Men querulous, bitter of Spirit, Revengeful, and of a Moroſs Uncharitable Diſpoſition, kicking at all Laws and Religion, but what they frame to themſelves, is a Truth indiſputable.</p>
+            <p>That this Charitable Law ſhould meet with Men of ſuch at Temperament to deſtroy it, is evident, and none can imagine but ſome of theſe muſt be in love with Goals, and pleas'd with the rendring their Fellow-Subjects uſeleſs to the World, and Sacrifices to greedy Jaylors, and the intereſt or re<g ref="char:EOLhyphen"/>venge of Scrivenors, Attornies, Sollicitors, Brokers, Uſurers, overgrown Extortioners, Eaters into the Antient Fortunes of Gentlemen, to aggrandize their upſtart Qualities, looking down upon the Perſons of more Honour than themſelves; and by ſuch Moth-natur'd Vermine, kept, confin'd, whilſt the Debtor (is put upon the neceſſity of being deliberately fed by them, till a De<g ref="char:EOLhyphen"/>cree in <hi>Chancery</hi> is obtained to forecloſe the equitable remains of a Noble Inheritance, or until a Releaſe of the Equity of a forfeit<g ref="char:EOLhyphen"/>ed Eſtate is procured for a ſmall Summ, to diſcharge a poor Pri<g ref="char:EOLhyphen"/>ſoner, that ſuch Viperous Morgagees may domineer ſecurely in the morgaged Premiſes (to the Capital Seat whereof it's proba<g ref="char:EOLhyphen"/>ble) the Fathers of theſe overgrown Harpies have been beholden for their neceſſary Suſtenance:) And yet the Lobby is filled with ſuch whiſpering into the Ears of the Gentlemen of the Long Robe, and other Members, objections to, and cavils at, a Bill proceeding with all the fairneſs, caution, form, and inſpection that ever paſs'd that Honourable Aſſembly. And leaſt ſome Worthy Mem<g ref="char:EOLhyphen"/>bers ſhould be captivated, it is thought, by others but neceſſary that all the Scruples, which may be pretended to obſtruct this Bill, having had ſo ripe a Production) may be ſolved, that none of our generous and merciful Repreſentatives may ſuffer in their Cha<g ref="char:EOLhyphen"/>recter of Wiſdom and Iuduſtry, or any Perſon be thought aſleep, during the paſſing of this ſo neceſſary an Act.</p>
+            <p>
+               <hi>Firſt,</hi> it is objected, that this Bill differs from the former Acts paſt to this purpoſe.</p>
+            <p>
+               <label>Anſ.</label> So it was intended, for that the Defects in thoſe Acts were foreſeen, and by this prevented, many hundreds being by that freed from their Debts, never impriſoned; for, by that it was but bribing the Jaylor, and the deceit was effected; but by this Act the Book, Copies of the Priſoners Cauſes (which are upon Record) muſt be produced, and Oath made by the Priſoner of the time he was impriſoned and other evidence of his Commitment.</p>
+            <p>
+               <label>Object. 2.</label> 
+               <hi>The Oath is too narrow, the Perſon not ſwearing what value the Eſtate is of that he doth diſcover to his Creditor, and ſwear<g ref="char:EOLhyphen"/>ing only that he hath not wherewith to pay the Debts, for which he is impriſoned.</hi>
+            </p>
+            <p>
+               <label>Anſ</label> He Swears, <hi>That he hath without any reſervation diſcovered All ſuch Eſtate real or perſonal, as he hath in Poſſeſſion, Reverſion or Remainder, of which he is ſeiſed or poſſeſſed in his own Right, or any other Perſon or Perſons in truſt for him; and that he hath not direct<g ref="char:EOLhyphen"/>ly or indirectly, ſold leaſed, or otherwiſe conveyed, aſſigned, or ſecured all, or any part of his Eſtate, to deceive any Creditor or Creditors, and what he hath been an actual Priſoners,</hi> &amp;c. And then comes in the Clauſe, that he hath not wherewith to ſatisfie the Debt due, or Damage, for which he is impriſoned; and the words in the Act of 22. 22 Cor.2. are ſufficient to pay the Debt or Damage, and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Act <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> are reſerved: Here thoſe are <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>trained to 10 <hi>l.</hi> and if a Debtor have 100 <hi>l.</hi> and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> men diſcovers that 100 <hi>l.</hi> and is bound by this Act to give every Creditor a Judgment: And ſo, if the value be in Monies, and the Creditors will not agree to a Dividend; if Chattels, a <hi>Fieri Facias</hi> will attack it, if Laid, and <hi>Elegit</hi> will lay hold on it, and ſo what doth the Debtor do, but compound for his Liberty with all he hath to diliver himſelf from Bondage, and the exceſſive Rent he is obliged to pay to a me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cileſs Keeper. Beſides, it is well known to Lawyers, that the Per<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons of Engliſhmen was not originally ſubject to impriſonment f<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Debt; and if <hi>Magma Charta</hi> be of force, ſo as to annul all Law made contrary to it: Impriſonment of Mens Perſons for Debt is b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a tortious detention; and what is here deſired, is not ſo much a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was allowed to a Debtor by the Common Law, when impriſonment was not: For by the Writ <hi>De Moderata Miſericordia,</hi> in whi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is recited <hi>Magna Charta,</hi> and thereby the <hi>Salvo contenemento ſuo, &amp; Villanis ſalvo Waynagio ſuo,</hi> and here is ſaved leſs than <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hath his Freehold occupie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>chandize, no Villain his W<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> reaſonable, and was the a<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on to ten times the value, th<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <label>
+                  <hi>Object.</hi> 3.</label> That it is not <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Creditor to continue his D<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> week, for the time the Cr<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <label>Anſ.</label> That by the Act o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Clauſe, but by the Act of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſaid allowance ſhall be paid <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lor and if in caſe he lye th<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Eſtate of the Debtor be diſ<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> then the Priſoner to be diſch<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> if ever that Clauſe was put <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon the Creditor, and hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> if that be agreeable to Chri<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> principles of our Religion <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <label>Object. 4.</label> 
+               <hi>That in this B<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> impoſed, in caſe of Perjury, a<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <label>Anſ.</label> But this impoſeth t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſtanding in the Pillory with <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in all Courts, pay all Dama<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> impriſoned as before, till h<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Life long.</p>
+            <p>
+               <label>Object. 5.</label> 
+               <hi>That this Act Regulates Jaylo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> given great ſums of Money for <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Places, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Rents for Farming of their Goals and make ma<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to Judges and others, for Favour to be ſhewed <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ceptable Members of a Common Wealth, and m<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bleſh, by Law, the Writ</hi> De di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Diem, <hi>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> vantage to the Creditor, who ſhould he o<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> may be intterupted by the Liber<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, the Debtor m<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> relief in equity.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> This is only to take from the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aylor, and pu<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> the Co<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſſioners for the Great Seal, to allow or not allow that W<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moderating the Fees and the Writs of <hi>Habeas Corpus</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich the beneficial Law (<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> caſe of Criminals) was mad<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 2. and which was then <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ooked upon worth a ſupp<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> two hundred ſix thouſa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our hund<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nds, an the an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if breaking of Laws <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>buying and ſelling of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ga<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing by oppreſſion, be thought a matter at this <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>me <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e countenanced.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſtly. <hi>It may be Objected <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> too well known t<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> m<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> A<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>t Pr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>titioners in the Law, that many Per<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s Marry <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>r Son<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Dau<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hters Settle great Eſstates and lye <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Priſon <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a</hi> Certiorari <hi>for their Souls, and there are too t<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> many Pr<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>of.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> They cannot (beſide diſgrace) <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ure the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of a Priſon, the extraordinary ſums of Money pa<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>le eaſe, from intolerable Hardhips and be ſubject <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> man<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>dignities put upon them, but, that th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would wit<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gly <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rt with what they have in th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r power <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arty, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at leaſt compound for what the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>harge <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Goal, over and above, their neceſſar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> let t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m continue, none can go furthe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>w and if they will offend, they can b<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> intend<g ref="char:EOLhyphen"/>ed to help impoſſibilities, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a help and releif for thoſe Honeſt <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be moſt of them <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Country by <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment, who are now burthen<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the whole <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which keeps the Husbands uſleſs whilſt <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> chil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ren are maintained by, and chargeable <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Farm fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they did laſt belong.</p>
+            <p>B<g ref="char:V">Ʋ</g>T if nothing will ſatisfied the angry Rats with<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t doors, by this Bill ſetled within i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is hoped the C<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lai<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>man will ſatisfie the Coſts, and then let the Wiſdom of the N<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ion Ju<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e, whether 40000 Subjects, who in the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Revolution might h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve delivered themſelves from Thraldom, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>de a conſi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rable <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ure in the juncture of Affairs, are not the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>y Engliſhm<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> who have had no Relief by this happy Reformation <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And his e<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>oſſed L<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w muſt; be laſt (in an <g ref="char:V">Ʋ</g>nparliamentary way) <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> humo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Relief in<g ref="char:EOLhyphen"/>tended muſt be denyed. For to t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w Bil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>av<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> none at all.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
